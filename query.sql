@@ -8,8 +8,6 @@ SELECT * FROM  users
 -- select everything a user (whose id is 5) and  user  any you need 
 
 
-
-
 -- SELECT name,email FROM users 
 -- WHERE contactNo='89989898';
 
